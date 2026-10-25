@@ -1,0 +1,5 @@
+Agent prompts and responses
+
+No sub-agents or other agents were used for this project. Therefore, there are no separate prompts or responses from different agents to include.
+
+The primary Codex agent's turn-by-turn user prompts and response summaries are recorded in the repository's log.txt file.
